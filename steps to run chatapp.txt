@@ -1,0 +1,26 @@
+1)open chatapp folder in vs code
+2)In config(firebase.js file)
+ 2a)change all code(that is copy your firebase api and paste in firebase.js)
+(brlow is sir given code change it
+and add yours)
+\\\\\\\\\\\
+(const firebaseConfig = {
+  apiKey: "AIzaSyBSEQ-qdzbMEve5bUzGRqNRxUexDEEUPck",
+  authDomain: "myproject-d563e.firebaseapp.com",
+  databaseURL: "https://myproject-d563e-default-rtdb.firebaseio.com",
+  projectId: "myproject-d563e",
+  storageBucket: "myproject-d563e.appspot.com",
+  messagingSenderId: "614852992128",
+  appId: "1:614852992128:web:a8285411d8bf1a90c5da65",
+  measurementId: "G-85EE9JHMVF"
+};)
+
+\\\\\\\\\\\
+
+3)save program
+4)In Terminal
+5)npm i expo-cli
+6)npm install
+7)npm start
+
+NOTE:Mobile and laptop should be on same wifi or network
